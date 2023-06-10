@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-static/static/css/main.95a13ec5.css",
+    "main.js": "/react-static/static/js/main.5be61d54.js",
+    "static/media/rastokke.png": "/react-static/static/media/rastokke.9a7c70cf11c15b4e1eec.png",
+    "static/media/norway.png": "/react-static/static/media/norway.45746d0e2091ffe696a4.png",
+    "static/media/dubb.png": "/react-static/static/media/dubb.44243e1cdcbac658a59e.png",
+    "static/media/default.jpg": "/react-static/static/media/default.e31f15ddc108966b2496.jpg",
+    "static/media/earth.png": "/react-static/static/media/earth.35b20acafdbeb80e4928.png",
+    "static/media/fuji.png": "/react-static/static/media/fuji.41202f28506253b39a4d.png",
+    "static/media/kilimanjaro.png": "/react-static/static/media/kilimanjaro.34558d3e5326eccd8024.png",
+    "static/media/worldd.png": "/react-static/static/media/worldd.9434fd42c7cc7811e922.png",
+    "static/media/worlddd.png": "/react-static/static/media/worlddd.11a24ffb4d375fb53fa4.png",
+    "static/media/locationn.png": "/react-static/static/media/locationn.a6374593aca61c340e6a.png",
+    "index.html": "/react-static/index.html",
+    "main.95a13ec5.css.map": "/react-static/static/css/main.95a13ec5.css.map",
+    "main.5be61d54.js.map": "/react-static/static/js/main.5be61d54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95a13ec5.css",
+    "static/js/main.5be61d54.js"
+  ]
+}
